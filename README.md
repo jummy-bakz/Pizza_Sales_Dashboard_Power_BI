@@ -32,7 +32,7 @@ The data cleaning process involved removing duplicates, handling missing values,
 4. Total Orders: Count of unique orders placed.
 5. Average Pizzas per Order: Total pizzas sold divided by the total number of orders.
 
-# Visualization Requirements: The visualization requirements were categorized as follows:
+ Visualization Requirements: The visualization requirements were categorized as follows:
 
 * Daily Trend for Total Orders: A bar chart illustrating the daily trend of order volumes.
 *  Monthly Trend for Total Orders: A line chart showcasing hourly trends in total orders.
@@ -42,7 +42,7 @@ The data cleaning process involved removing duplicates, handling missing values,
 *   Top 5 Best Sellers: Bar charts highlighting top 5 best sellers by revenue, quantity, and order count.
 *    Bottom 5 Best Sellers: Bar charts showcasing bottom 5 worst sellers by revenue, quantity, and order count.
 
-# Charts and Insights : The visualizations offer valuable insights:
+ Charts and Insights : The visualizations offer valuable insights:
 * The Daily Trend and Monthly Trend charts reveal patterns in order volumes, helping identify peak hours and popular times.
 *  Percentage of Sales by Pizza Category and Percentage of Sales by Pizza Size charts provide insights into customer preferences.
 *  Total Pizzas Sold by Pizza Category chart facilitates comparison of pizza categories.
