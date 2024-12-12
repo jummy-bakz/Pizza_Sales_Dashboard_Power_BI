@@ -11,11 +11,18 @@ This repository contains a Power BI dashboard project that provides an in-depth 
 
 # Table of Contents
 
-Introduction Data Preparation Key Performance Indicators (KPIs) Visualization Requirements Charts and Insights Conclusion
+* Introduction
+* Data Preparation
+* Key Performance Indicators (KPIs)
+* Visualization Requirements
+*  Charts and Insights
+*   Conclusion
 
-Introduction The Pizza Sales Dashboard report aims to provide actionable insights into pizza sales performance. The report encompasses data cleaning, processing, analysis, and visualization, enabling a comprehensive understanding of sales trends, pizza preferences, and key business metrics.
+Introduction:
+The Pizza Sales Dashboard report aims to provide actionable insights into pizza sales performance. The report encompasses data cleaning, processing, analysis, and visualization, enabling a comprehensive understanding of sales trends, pizza preferences, and key business metrics.
 
-Data Preparation The data cleaning process involved removing duplicates, handling missing values, and ensuring data consistency. Data processing included aggregating sales data, calculating total revenue, total pizzas sold, and other essential metrics. The clean and processed dataset formed the foundation for subsequent analysis and visualization.
+Data Preparation:
+The data cleaning process involved removing duplicates, handling missing values, and ensuring data consistency. Data processing included aggregating sales data, calculating total revenue, total pizzas sold, and other essential metrics. The clean and processed dataset formed the foundation for subsequent analysis and visualization.
 
 🍕📈💰 Key Performance Indicators (KPIs) The following KPIs were calculated:
 
@@ -36,9 +43,11 @@ Data Preparation The data cleaning process involved removing duplicates, handlin
 *    Bottom 5 Best Sellers: Bar charts showcasing bottom 5 worst sellers by revenue, quantity, and order count.
 
 # Charts and Insights The visualizations offer valuable insights:
-The Daily Trend and Monthly Trend charts reveal patterns in order volumes, helping identify peak hours and popular times. Percentage of Sales by Pizza Category and Percentage of Sales by Pizza Size charts provide insights into customer preferences. Total Pizzas Sold by Pizza Category chart facilitates comparison of pizza categories. Top 5 Best Sellers and Bottom 5 Best Sellers charts identify the most and least popular pizza options.
+* The Daily Trend and Monthly Trend charts reveal patterns in order volumes, helping identify peak hours and popular times.
+*  Percentage of Sales by Pizza Category and Percentage of Sales by Pizza Size charts provide insights into customer preferences. Total Pizzas Sold by Pizza Category chart facilitates comparison of pizza categories. Top 5 Best Sellers and Bottom 5 Best Sellers charts identify the most and least popular pizza options.
 
-Conclusion The Pizza Sales Dashboard report presents a comprehensive analysis of key business metrics and trends. The visualizations offer actionable insights, enabling data-driven decisions to enhance business performance and customer satisfaction.
+Conclusion:
+The Pizza Sales Dashboard report presents a comprehensive analysis of key business metrics and trends. The visualizations offer actionable insights, enabling data-driven decisions to enhance business performance and customer satisfaction.
 
 # About the Author
 This project was completed by [Dasola Olanrewaju]. Feel free to connect with me on LinkedIn https://www.linkedin.com/in/olanrewaju-dasola-697a70253/ for any questions or discussions related to this project or data analytics in general.
